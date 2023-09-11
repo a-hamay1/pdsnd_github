@@ -3,8 +3,8 @@
 ### Project Date: 11/09/2023
 
 
-### Bike Share Project 
-Replace the Project Title
+### Bike Share Project : datascience analysis with PYTHON 
+
 
 ### Description
 
@@ -12,7 +12,7 @@ The Bike Share Project is a comprehensive data analysis and management system de
 insights into urban bike-sharing programs. Through this project, we explore and visualize data from various cities, helping to optimize bike distribution, 
 improve user experience, and promote eco-friendly transportation choices."
 
-### Files used
+### Files used in the project
 main.py: This is the main Python script that contains the code for analyzing and managing bike share data. It often includes functions for loading and processing data, as well as interactive user interfaces for querying and displaying information.
 
 Data Files: These are the datasets containing bike share data for different cities. Common file formats include CSV (Comma-Separated Values) or Excel files. Each city's data may be stored in a separate file. Example data files might be named chicago.csv, new_york_city.csv, and washington.csv.
