@@ -1,18 +1,18 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Project Date: 16/09/2023
+### Project Date: 20/09/2023
 
 
 ### Bike Share Project : datascience analysis with PYTHON 
 
 
-### Description
+### Description of the bike share project 
 
 The Bike Share Project is a comprehensive data analysis and management system designed to provide valuable
 insights into urban bike-sharing programs. Through this project, we explore and visualize data from various cities, helping to optimize bike distribution, 
 improve user experience, and promote eco-friendly transportation choices."
 
-### Files used in the project
+### Files used in this project
 
 main.py: This is the main Python script that contains the code for analyzing and managing bike share data. It often includes functions for loading and processing data, as well as interactive user interfaces for querying and displaying information.
 
